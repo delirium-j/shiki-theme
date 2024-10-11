@@ -2546,19 +2546,19 @@ body#profiles_edit .b-catalog_entry .cover .image-decor img {
 }
 
 #profiles_show .achievements .cc-2 > .c-column:first-child {
-    width: 49.5%;
+    width: 0%;
     margin-left: 0;
     margin-right: 0;
 }
 
 #profiles_show .achievements .cc-2 > .c-column:nth-child(2) {
-    width: 49.5%;
+    width: 100%;
     margin-left: 1%;
     margin-right: 0;
 }
 
 #profiles_show .achievements .cc-2 > .c-column:nth-child(3) {
-    width: 100%;
+    width: 0%;
 }
 
 .p-profiles-show a.b-badge:hover:before {
