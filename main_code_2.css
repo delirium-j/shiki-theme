@@ -2523,7 +2523,7 @@ body#profiles_edit .b-catalog_entry .cover .image-decor img {
 
 #profiles_show .achievements .c-column:nth-child(1) .cc-achievements .b-achievement,
 #profiles_show .achievements .c-column:nth-child(2) .cc-achievements .b-achievement {
-    width: 23%;
+    width: 53%;
 }
 
 #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge {
@@ -2542,7 +2542,7 @@ body#profiles_edit .b-catalog_entry .cover .image-decor img {
     justify-content: space-around;
     align-content: space-around;
     flex-wrap: nowrap;
-    width: 100%;
+    width: 0%;
 }
 
 #profiles_show .achievements .cc-2 > .c-column:first-child {
